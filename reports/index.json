@@ -3,6 +3,39 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260426-214049-0czm",
+      "title": "The Bloöp",
+      "commanders": [
+        "The Bloöp"
+      ],
+      "dateStart": "2026-04-26T13:40:49.000Z",
+      "dateEnd": "2026-04-26T14:22:37.000Z",
+      "dateLabel": "26/04/2026, 21:40:49 - 26/04/2026, 22:22:37",
+      "url": "https://Milk-Teh.github.io/GW2Milk/?report=20260426-214049-0czm",
+      "summary": {
+        "borderlandsPct": 0.9,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 16,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 2,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 2,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20260426-084016-wcxh",
       "title": "Alice Charmingnails",
       "commanders": [
