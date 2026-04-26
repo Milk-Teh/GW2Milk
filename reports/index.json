@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260426-084016-wcxh",
+      "title": "Alice Charmingnails",
+      "commanders": [
+        "Alice Charmingnails"
+      ],
+      "dateStart": "2026-04-26T00:40:16.000Z",
+      "dateEnd": "2026-04-26T01:44:09.000Z",
+      "dateLabel": "26/04/2026, 08:40:16 - 26/04/2026, 09:44:09",
+      "url": "https://Milk-Teh.github.io/GW2Milk/?report=20260426-084016-wcxh",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 22,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 47,
+        "avgEnemySize": 52
+      }
+    },
+    {
       "id": "20260425-215706-11x4",
       "title": "Gladioulus August",
       "commanders": [
