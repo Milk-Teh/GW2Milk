@@ -3,6 +3,35 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260429-213440-ddt4",
+      "title": "Milk R, The Bloöp",
+      "commanders": [
+        "Milk R",
+        "The Bloöp"
+      ],
+      "dateStart": "2026-04-29T13:34:40.000Z",
+      "dateEnd": "2026-04-29T14:35:43.000Z",
+      "dateLabel": "29/04/2026, 21:34:40 - 29/04/2026, 22:35:43",
+      "url": "https://Milk-Teh.github.io/GW2Milk/?report=20260429-213440-ddt4",
+      "summary": {
+        "borderlandsPct": 0.23076923076923078,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 10,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 42
+      }
+    },
+    {
       "id": "20260428-210117-sw1n",
       "title": "Milk R, Nyoôm, The Bloöp",
       "commanders": [
