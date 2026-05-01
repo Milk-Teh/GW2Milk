@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260501-215317-bgwg",
+      "title": "Ezekiel Ilv",
+      "commanders": [
+        "Ezekiel Ilv"
+      ],
+      "dateStart": "2026-05-01T13:53:17.000Z",
+      "dateEnd": "2026-05-01T14:24:06.000Z",
+      "dateLabel": "01/05/2026, 21:53:17 - 01/05/2026, 22:24:06",
+      "url": "https://Milk-Teh.github.io/GW2Milk/?report=20260501-215317-bgwg",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 7,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 34
+      }
+    },
+    {
       "id": "20260430-214848-u284",
       "title": "Milk R, U Milk M",
       "commanders": [
