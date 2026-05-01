@@ -3,6 +3,35 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260430-214848-u284",
+      "title": "Milk R, U Milk M",
+      "commanders": [
+        "Milk R",
+        "U Milk M"
+      ],
+      "dateStart": "2026-04-30T13:48:48.000Z",
+      "dateEnd": "2026-04-30T14:53:45.000Z",
+      "dateLabel": "30/04/2026, 21:48:48 - 30/04/2026, 22:53:45",
+      "url": "https://Milk-Teh.github.io/GW2Milk/?report=20260430-214848-u284",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 20,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Edge of the Mists",
+            "value": 5,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 22
+      }
+    },
+    {
       "id": "20260429-213440-ddt4",
       "title": "Milk R, The Bloöp",
       "commanders": [
