@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260502-100906-z6uc",
+      "title": "Diana Sami",
+      "commanders": [
+        "Diana Sami"
+      ],
+      "dateStart": "2026-05-02T02:09:06.000Z",
+      "dateEnd": "2026-05-02T02:49:48.000Z",
+      "dateLabel": "02/05/2026, 10:09:06 - 02/05/2026, 10:49:48",
+      "url": "https://Milk-Teh.github.io/GW2Milk/?report=20260502-100906-z6uc",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 28,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20260501-215317-bgwg",
       "title": "Ezekiel Ilv",
       "commanders": [
