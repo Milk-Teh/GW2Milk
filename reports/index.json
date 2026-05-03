@@ -3,6 +3,34 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260503-204504-t53j",
+      "title": "Milk R",
+      "commanders": [
+        "Milk R"
+      ],
+      "dateStart": "2026-05-03T12:45:04.000Z",
+      "dateEnd": "2026-05-03T13:53:38.000Z",
+      "dateLabel": "03/05/2026, 20:45:04 - 03/05/2026, 21:53:38",
+      "url": "https://Milk-Teh.github.io/GW2Milk/?report=20260503-204504-t53j",
+      "summary": {
+        "borderlandsPct": 0.11764705882352941,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 15,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20260502-100906-z6uc",
       "title": "Diana Sami",
       "commanders": [
