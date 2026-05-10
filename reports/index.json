@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260510-211149-kd4n",
+      "title": "U Milk M",
+      "commanders": [
+        "U Milk M"
+      ],
+      "dateStart": "2026-05-10T13:11:49.000Z",
+      "dateEnd": "2026-05-10T14:22:18.000Z",
+      "dateLabel": "10/05/2026, 21:11:49 - 10/05/2026, 22:22:18",
+      "url": "https://Milk-Teh.github.io/GW2Milk/?report=20260510-211149-kd4n",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 7,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 19
+      }
+    },
+    {
       "id": "20260505-213948-psw9",
       "title": "U Milk M",
       "commanders": [
