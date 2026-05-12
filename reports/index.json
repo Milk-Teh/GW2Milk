@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260512-202254-h6ws",
+      "title": "U Milk M",
+      "commanders": [
+        "U Milk M"
+      ],
+      "dateStart": "2026-05-12T12:22:54.000Z",
+      "dateEnd": "2026-05-12T13:58:33.000Z",
+      "dateLabel": "12/05/2026, 20:22:54 - 12/05/2026, 21:58:33",
+      "url": "https://Milk-Teh.github.io/GW2Milk/?report=20260512-202254-h6ws",
+      "summary": {
+        "borderlandsPct": 0.06666666666666667,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 14,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 17
+      }
+    },
+    {
       "id": "20260510-211149-kd4n",
       "title": "U Milk M",
       "commanders": [
