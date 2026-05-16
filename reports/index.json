@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260516-203124-j92s",
+      "title": "U Milk M",
+      "commanders": [
+        "U Milk M"
+      ],
+      "dateStart": "2026-05-16T12:31:24.000Z",
+      "dateEnd": "2026-05-16T14:20:19.000Z",
+      "dateLabel": "16/05/2026, 20:31:24 - 16/05/2026, 22:20:19",
+      "url": "https://Milk-Teh.github.io/GW2Milk/?report=20260516-203124-j92s",
+      "summary": {
+        "borderlandsPct": 0.23076923076923078,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 10,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 38
+      }
+    },
+    {
       "id": "20260514-212619-omnh",
       "title": "Nyoôm",
       "commanders": [
