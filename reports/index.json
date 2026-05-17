@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260517-204133-kzib",
+      "title": "The Bloöp",
+      "commanders": [
+        "The Bloöp"
+      ],
+      "dateStart": "2026-05-17T12:41:33.000Z",
+      "dateEnd": "2026-05-17T14:18:19.000Z",
+      "dateLabel": "17/05/2026, 20:41:33 - 17/05/2026, 22:18:19",
+      "url": "https://Milk-Teh.github.io/GW2Milk/?report=20260517-204133-kzib",
+      "summary": {
+        "borderlandsPct": 0.5,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 5,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 52
+      }
+    },
+    {
       "id": "20260516-203124-j92s",
       "title": "U Milk M",
       "commanders": [
