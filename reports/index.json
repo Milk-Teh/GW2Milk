@@ -4,6 +4,40 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260522-205922-0hcf",
+      "title": "Its Bloop, U Milk M",
+      "commanders": [
+        "Its Bloop",
+        "U Milk M"
+      ],
+      "dateStart": "2026-05-22T12:59:22.000Z",
+      "dateEnd": "2026-05-22T14:33:50.000Z",
+      "dateLabel": "22/05/2026, 20:59:22 - 22/05/2026, 22:33:50",
+      "url": "https://Milk-Teh.github.io/GW2Milk/?report=20260522-205922-0hcf",
+      "summary": {
+        "borderlandsPct": 0.95,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 17,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 2,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20260521-213729-25ea",
       "title": "Nyoôm, The Bloöp",
       "commanders": [
