@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260523-100733-4xd4",
+      "title": "Mohr Shadows",
+      "commanders": [
+        "Mohr Shadows"
+      ],
+      "dateStart": "2026-05-23T02:07:33.000Z",
+      "dateEnd": "2026-05-23T03:58:09.000Z",
+      "dateLabel": "23/05/2026, 10:07:33 - 23/05/2026, 11:58:09",
+      "url": "https://Milk-Teh.github.io/GW2Milk/?report=20260523-100733-4xd4",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 21,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 44,
+        "avgEnemySize": 42
+      }
+    },
+    {
       "id": "20260522-205922-0hcf",
       "title": "Its Bloop, U Milk M",
       "commanders": [
