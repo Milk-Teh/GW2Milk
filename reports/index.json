@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260604-205344-mk4m",
+      "title": "Nyoôm, The Blöop",
+      "commanders": [
+        "Nyoôm",
+        "The Blöop"
+      ],
+      "dateStart": "2026-06-04T12:53:44.000Z",
+      "dateEnd": "2026-06-04T13:59:44.000Z",
+      "dateLabel": "04/06/2026, 20:53:44 - 04/06/2026, 21:59:44",
+      "url": "https://Milk-Teh.github.io/GW2Milk/?report=20260604-205344-mk4m",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 26,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 48
+      }
+    },
+    {
       "id": "20260523-100733-4xd4",
       "title": "Mohr Shadows",
       "commanders": [
